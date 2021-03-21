@@ -1,0 +1,39 @@
+.box{
+    border: solid 1px black;
+    position: relative;
+}
+
+.cd{
+    height: 125px;
+    width: 480px;
+    background-color: cadetblue;
+}
+
+.efgh{
+    height: 250px;
+    width: 240px;
+    background-color: coral;
+}
+
+.efgh:nth-child(odd){
+    float: right;
+}    
+
+@media only screen and (min-width: 768px) and (max-width: 960px){
+
+    .cd{
+        height: 200px;
+        width: 380px;
+        background-color: cadetblue;
+    }
+    
+    .efgh{
+        height: 250px;
+        width: 190px;
+        background-color: coral;
+    }
+
+    .cd:nth-child(odd),.efgh:nth-child(odd){
+        float: right;
+    }
+}
