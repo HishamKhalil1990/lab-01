@@ -6,13 +6,11 @@
 .cd{
     height: 125px;
     width: 480px;
-    background-color: cadetblue;
 }
 
 .efgh{
     height: 250px;
     width: 240px;
-    background-color: coral;
 }
 
 .efgh:nth-child(odd){

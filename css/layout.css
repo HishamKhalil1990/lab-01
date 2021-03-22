@@ -10,7 +10,6 @@ p{
     width:480px;
     height: 767px;
     margin:auto;
-    background-color: aquamarine;
 }
 
 #a{
@@ -23,6 +22,30 @@ p{
     height: 150px;
     width: 480px;
     background-color: blueviolet;
+}
+
+#c{
+    background-color: aquamarine;
+}
+
+#d{
+    background-color: lightpink;
+}
+
+#e{
+    background-color: lightsalmon;
+}
+
+#f{
+    background-color: lime;
+}
+
+#g{
+    background-color: cyan;
+}
+
+#h{
+    background-color: chocolate;
 }
 
 #i{
@@ -70,6 +93,30 @@ p{
         width: 200px;
         background-color: blueviolet;
         float: left;
+    }
+
+    #c{
+        background-color: aquamarine;
+    }
+    
+    #d{
+        background-color: lightpink;
+    }
+    
+    #e{
+        background-color: lightsalmon;
+    }
+    
+    #f{
+        background-color: lime;
+    }
+
+    #g{
+        background-color: cyan;
+    }
+    
+    #h{
+        background-color: chocolate;
     }
 
     #i{
